@@ -1,0 +1,38 @@
+
+.people-wrapper {
+    padding-bottom: 2rem;
+}
+
+.person-wrapper {
+    display: flex;
+    margin: 1rem 0rem;
+}
+
+.person-photo {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.person-photo>img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.name-age-wrapper {
+    display: block;
+    margin-left: 1rem;
+}
+
+.name {
+    font-weight: 400;
+    margin-bottom: 0;
+    font-size: 1.4rem;
+}
+
+.age {
+    margin-top: 0.3rem;
+    color: rgb(109, 107, 107);
+}
