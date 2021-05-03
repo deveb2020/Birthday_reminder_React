@@ -1,4 +1,3 @@
-BIRTHDAY REMINDER REACT
+# BIRTHDAY REMINDER REACT
 
-This project was created using ReactJS.
-Hooks are used in this project
+This project is used for learning purposes !
